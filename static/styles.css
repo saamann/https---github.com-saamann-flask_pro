@@ -529,6 +529,7 @@ body {
 .container9 h1 {
   margin-top: 20px;
   font-size: 50px;
+  margin-left: 60px;
 }
 
 .container9 hr {
@@ -1233,4 +1234,17 @@ hr {
   font-size: 50px;
 
   margin-left: 1200px;
+}
+/* -----------------------------------------------------------19------------------- */
+.footer19 img {
+  width: 35%;
+  margin-left: 700px;
+  margin-top: -950px;
+}
+.footer19 p {
+  margin-top: 30px;
+  margin-left: 170px;
+}
+.footer19 h1 {
+  margin-left: 1000px;
 }
