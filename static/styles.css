@@ -1106,3 +1106,16 @@ hr {
   width: 530px;
   z-index: -1;
 }
+/* -----------------------------------------------------17--------------- */
+.footer17 img {
+  width: 35%;
+  margin-left: 700px;
+  margin-top: -990px;
+}
+.footer17 p {
+  margin-top: 30px;
+  margin-left: 170px;
+}
+.footer17 h1 {
+  margin-left: 1000px;
+}
