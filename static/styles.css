@@ -1363,3 +1363,110 @@ hr {
 
   margin-left: 1200px;
 }
+/* -----------------------------------------------------------------21---------- */
+.container21 h1 {
+  font-size: 50px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.container21 p {
+  margin-left: 8%;
+  font-weight: bold;
+}
+
+.middle21 {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 7%;
+}
+.middle21 .mid1 {
+  padding: 10px;
+}
+
+.middle21 .mid2 {
+  padding: 10px;
+  margin-left: 100px;
+
+  margin-left: -10px;
+}
+.mid2 h1 {
+  margin-right: 30%;
+}
+
+.middle21 h1 {
+  margin-left: -20px;
+}
+
+.middle21 h4 {
+  text-align: left;
+  margin-left: 85px;
+}
+
+.mid1 p {
+  margin-left: -32px;
+}
+.mid2 p {
+  margin-left: -20px;
+}
+
+.footer-paragraph-21 {
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
+}
+
+.footpara21-1,
+.footpara21-2,
+.footpara21-3 {
+  flex: 1;
+  padding: 10px;
+
+  margin: 60px;
+}
+
+.footer-container21 {
+  font-size: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  margin-left: 400px;
+  margin-top: -350px;
+
+  width: 50%;
+  height: 175px;
+}
+
+.foot21 p {
+  padding: 5%;
+  margin: 20px;
+  width: 50%;
+  border-radius: 2px;
+  margin-bottom: -250px;
+  box-sizing: content-box;
+}
+.middlegraph21 {
+  width: 130%;
+  margin-left: 50px;
+  margin-top: 40px;
+  z-index: -1;
+}
+.left-logo21 {
+  margin-top: 50px;
+  width: 100px;
+  margin-left: 150px;
+}
+.right-logo21 {
+  width: 600px;
+  float: right;
+}
+.footerlogo21 {
+  width: 750px;
+  z-index: -1;
+  margin-top: 100px;
+  margin-left: 375px;
+}
+.foot-num21 h1 {
+  font-size: 50px;
+
+  margin-left: 1200px;
+}
