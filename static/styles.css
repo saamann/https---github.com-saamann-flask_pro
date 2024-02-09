@@ -504,7 +504,8 @@ body {
 }
 
 .container9 p {
-  font-size: 10px;
+  font-weight: bold;
+  font-size: 12px;
   text-align: left;
   width: 300px;
   margin-left: 170px;
@@ -1828,4 +1829,17 @@ hr {
   font-size: 50px;
 
   margin-left: 1200px;
+}
+/* -----------------------------------------------------------------26----------- */
+.footer26 img {
+  width: 35%;
+  margin-left: 700px;
+  margin-top: -1000px;
+}
+.footer26 p {
+  margin-top: 30px;
+  margin-left: 170px;
+}
+.footer26 h1 {
+  margin-left: 1300px;
 }
