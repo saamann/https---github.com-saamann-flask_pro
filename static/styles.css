@@ -1856,3 +1856,76 @@ hr {
 .footer27 h1 {
   margin-left: 1300px;
 }
+/* ----------------------------------------------------------28--------------------------- */
+
+.message-box28 {
+  margin-left: 450px;
+  margin-top: 100px;
+  font-style: italic;
+  padding: 20px;
+
+  max-width: 600px;
+}
+.table28 {
+  position: absolute;
+  top: 480px;
+  left: 1100px;
+  font-weight: bold;
+  width: 281.5px;
+  height: 125.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  text-align: left;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+table {
+  width: 160%;
+  border-collapse: collapse;
+}
+
+td.label:after {
+  content: ":";
+  margin-left: 50px; /* Adjust as needed */
+}
+
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 2px solid #fffdfd;
+}
+
+td:first-child {
+  text-align: left;
+}
+.footer-para28 p {
+  padding: 200px;
+  border-radius: 10px;
+  margin-left: -200px;
+  width: 100%;
+}
+
+.message-box28 h1 {
+  color: #082e47;
+}
+
+.message-box28 p {
+  color: #333333;
+}
+.logo28 {
+  z-index: -1;
+  margin-top: -180px;
+  margin-left: -10px;
+}
+img.first-image28 {
+  width: 300px;
+  height: 600px;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 120px;
+  transform: translateX(-50%);
+  z-index: -1; /* Move the image behind the text */
+}
